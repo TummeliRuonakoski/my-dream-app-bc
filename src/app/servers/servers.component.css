@@ -1,0 +1,20 @@
+.form-control{
+    color: red;
+}
+
+.app-servers{
+    background-color: black;
+}
+
+.app-servers * {
+    color: bisque;
+}
+
+.app-servers input {
+    color: blue;
+}
+
+button{
+    background-color: blue;
+}
+
